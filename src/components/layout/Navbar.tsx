@@ -12,7 +12,6 @@ export function Navbar() {
   const navLinks = [
     { name: 'Servicios', href: '#servicios' },
     { name: 'Sobre Mí', href: '#sobre-mi' },
-    { name: 'Síntomas IA', href: '#ia' },
     { name: 'Contacto', href: '#contacto' },
   ];
 

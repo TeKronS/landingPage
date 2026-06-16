@@ -4,7 +4,6 @@ import { Hero } from '@/components/sections/Hero';
 import { Services } from '@/components/sections/Services';
 import { About } from '@/components/sections/About';
 import { Contact } from '@/components/sections/Contact';
-import { SymptomNavigator } from '@/components/ai/SymptomNavigator';
 import { Toaster } from '@/components/ui/toaster';
 import { Heart } from 'lucide-react';
 
@@ -17,7 +16,6 @@ export default function Home() {
         <Hero />
         <Services />
         <About />
-        <SymptomNavigator />
         <Contact />
       </main>
 
