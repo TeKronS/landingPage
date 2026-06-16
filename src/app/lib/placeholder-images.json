@@ -4,31 +4,31 @@
     {
       "id": "hero-dentist",
       "description": "High-quality, professional photograph of a modern dental clinic interior, minimalist design, bright and clean aesthetic, state-of-the-art dental chair and equipment, warm and welcoming lighting, 8k resolution.",
-      "imageUrl": "/1.png?v=1",
+      "imageUrl": "/1vv.png",
       "imageHint": "dental clinic"
     },
     {
       "id": "dentist-profile",
       "description": "Professional studio portrait of a friendly male dentist in a clean white lab coat, smiling warmly, blurred modern dental office in the background, high-resolution photography, soft cinematic lighting.",
-      "imageUrl": "/v2.png?v=1",
+      "imageUrl": "/2vv.png",
       "imageHint": "dentist portrait"
     },
     {
       "id": "service-cleaning",
       "description": "Macro photography of a professional dental cleaning procedure, focusing on precision tools and a clean environment, bright surgical lighting, clinical and hygienic atmosphere.",
-      "imageUrl": "/3.png?v=1",
+      "imageUrl": "/3vv.png",
       "imageHint": "dental cleaning"
     },
     {
       "id": "service-orthodontics",
       "description": "Professional close-up of modern orthodontic treatment, showing clear aligners or high-quality braces in a clinical setting, clean and bright aesthetic, focus on dental health.",
-      "imageUrl": "/4.png?v=1",
+      "imageUrl": "/4vv.png",
       "imageHint": "orthodontics"
     },
     {
       "id": "service-whitening",
       "description": "Close-up of a brilliant and healthy white smile after a teeth whitening treatment, professional dental lighting, high-end cosmetic dentistry aesthetic, photorealistic.",
-      "imageUrl": "/5.png?v=1",
+      "imageUrl": "/5vv.png",
       "imageHint": "teeth whitening"
     }
   ]

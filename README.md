@@ -1,3 +1,4 @@
+
 # OdontoCare - Landing Page para Clínica Dental
 
 OdontoCare es una aplicación web moderna y profesional diseñada para clínicas dentales. Ofrece una interfaz intuitiva y atractiva para que los pacientes conozcan los servicios, al profesional a cargo y puedan solicitar citas fácilmente.
@@ -22,12 +23,12 @@ OdontoCare es una aplicación web moderna y profesional diseñada para clínicas
 
 ## Estructura de Imágenes
 
-El proyecto utiliza imágenes locales optimizadas:
-- `1.png`: Interior de la clínica (Hero).
-- `2.png`: Perfil del dentista.
-- `3.png`: Imagen de limpieza dental.
-- `4.png`: Imagen de ortodoncia.
-- `5.png`: Imagen de blanqueamiento dental.
+El proyecto utiliza imágenes locales optimizadas en la carpeta `public`:
+- `1vv.png`: Interior de la clínica (Hero).
+- `2vv.png`: Perfil del dentista.
+- `3vv.png`: Imagen de limpieza dental.
+- `4vv.png`: Imagen de ortodoncia.
+- `5vv.png`: Imagen de blanqueamiento dental.
 
 ## Instalación y Desarrollo
 
