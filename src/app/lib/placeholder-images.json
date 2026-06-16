@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-dentist",
+      "description": "Modern dental clinic interior",
+      "imageUrl": "https://picsum.photos/seed/dental-hero/1200/600",
+      "imageHint": "dental clinic"
+    },
+    {
+      "id": "dentist-profile",
+      "description": "Professional dentist smiling",
+      "imageUrl": "https://picsum.photos/seed/dentist-face/600/800",
+      "imageHint": "dentist portrait"
+    },
+    {
+      "id": "service-cleaning",
+      "description": "Dental cleaning procedure",
+      "imageUrl": "https://picsum.photos/seed/dental-cleaning/400/300",
+      "imageHint": "dental cleaning"
+    },
+    {
+      "id": "service-orthodontics",
+      "description": "Orthodontic treatment",
+      "imageUrl": "https://picsum.photos/seed/braces/400/300",
+      "imageHint": "orthodontics"
+    },
+    {
+      "id": "service-whitening",
+      "description": "Teeth whitening procedure",
+      "imageUrl": "https://picsum.photos/seed/teeth-whitening/400/300",
+      "imageHint": "teeth whitening"
+    }
+  ]
+}
