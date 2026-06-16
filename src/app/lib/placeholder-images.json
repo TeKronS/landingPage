@@ -3,32 +3,32 @@
   "placeholderImages": [
     {
       "id": "hero-dentist",
-      "description": "High-quality, professional photograph of a modern dental clinic interior, minimalist design, bright and clean aesthetic",
-      "imageUrl": "https://picsum.photos/seed/dental-hero/1200/600",
+      "description": "High-quality, professional photograph of a modern dental clinic interior, minimalist design, bright and clean aesthetic, state-of-the-art dental chair and equipment, warm and welcoming lighting, 8k resolution.",
+      "imageUrl": "/1.png",
       "imageHint": "dental clinic"
     },
     {
       "id": "dentist-profile",
-      "description": "Professional studio portrait of a friendly male dentist in a clean white lab coat, smiling warmly",
-      "imageUrl": "https://picsum.photos/seed/dentist-face/600/800",
+      "description": "Professional studio portrait of a friendly male dentist in a clean white lab coat, smiling warmly, blurred modern dental office in the background, high-resolution photography, soft cinematic lighting.",
+      "imageUrl": "/2.png",
       "imageHint": "dentist portrait"
     },
     {
       "id": "service-cleaning",
-      "description": "Macro photography of a professional dental cleaning procedure, focusing on precision tools",
-      "imageUrl": "https://picsum.photos/seed/dental-cleaning/400/300",
+      "description": "Macro photography of a professional dental cleaning procedure, focusing on precision tools and a clean environment, bright surgical lighting, clinical and hygienic atmosphere.",
+      "imageUrl": "/3.png",
       "imageHint": "dental cleaning"
     },
     {
       "id": "service-orthodontics",
-      "description": "Professional close-up of modern orthodontic treatment showing clear aligners",
-      "imageUrl": "https://picsum.photos/seed/braces/400/300",
+      "description": "Professional close-up of modern orthodontic treatment, showing clear aligners or high-quality braces in a clinical setting, clean and bright aesthetic, focus on dental health.",
+      "imageUrl": "/4.png",
       "imageHint": "orthodontics"
     },
     {
       "id": "service-whitening",
-      "description": "Close-up of a brilliant and healthy white smile after a professional treatment",
-      "imageUrl": "https://picsum.photos/seed/teeth-whitening/400/300",
+      "description": "Close-up of a brilliant and healthy white smile after a teeth whitening treatment, professional dental lighting, high-end cosmetic dentistry aesthetic, photorealistic.",
+      "imageUrl": "/5.png",
       "imageHint": "teeth whitening"
     }
   ]
